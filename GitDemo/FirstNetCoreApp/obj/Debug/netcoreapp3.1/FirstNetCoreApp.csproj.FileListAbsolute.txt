@@ -1,0 +1,13 @@
+C:\devOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.exe
+C:\devOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.deps.json
+C:\devOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.runtimeconfig.json
+C:\devOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.runtimeconfig.dev.json
+C:\devOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.dll
+C:\devOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.pdb
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.csprojAssemblyReference.cache
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.AssemblyInfoInputs.cache
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.AssemblyInfo.cs
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.csproj.CoreCompileInputs.cache
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.dll
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.pdb
+C:\devOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.genruntimeconfig.cache
